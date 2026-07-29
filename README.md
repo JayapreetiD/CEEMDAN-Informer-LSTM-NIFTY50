@@ -122,17 +122,6 @@ This project investigates the effectiveness of combining CEEMDAN signal decompos
 
 ---
 
-## Future Enhancements
-
-- Adaptive rolling-window forecasting
-- Online model updating
-- Market regime detection
-- Concept drift detection
-- Real-time forecasting pipeline
-- Explainable AI for financial forecasting
-
----
-
 ## References
 
 This implementation is inspired by recent research on hybrid deep learning methods for financial time-series forecasting using CEEMDAN, Informer, and LSTM architectures. The original research paper provides the theoretical foundation for the hybrid modelling approach implemented in this repository.
